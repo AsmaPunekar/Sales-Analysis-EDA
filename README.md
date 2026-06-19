@@ -1,7 +1,7 @@
 # 📊 Sales Analysis Dashboard (Q4 2020)
 
 > **Business Intelligence and Exploratory Data Analysis using Python**
-
+**This project is part of Professional Certificate Program in Generative AI and Machine Learning - IITG by Simplilearn Learning platform Author: Asma I. Punekar
 **Author:** **Asma I. Punekar**
 
 ---
@@ -112,59 +112,6 @@ Created visualizations including:
 * Highlighted seasonal variations in sales performance.
 * Provided business insights to support strategic decision-making.
 
----
-
-# 📁 Repository Structure
-
-```text
-sales-analysis-dashboard/
-│
-├── data/
-│   └── AusApparalSales4thQrt2020.csv
-│
-├── notebooks/
-│   └── Sales_Analysis.ipynb
-│
-├── images/
-│   ├── monthly_sales.png
-│   ├── weekly_sales.png
-│   ├── quarterly_sales.png
-│   ├── state_sales.png
-│   └── product_sales.png
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
-
-# 🚀 Installation
-
-```bash
-git clone https://github.com/<your-github-username>/sales-analysis-dashboard.git
-
-cd sales-analysis-dashboard
-
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run the Project
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-Sales_Analysis.ipynb
-```
-
----
 
 # 📈 Results
 
